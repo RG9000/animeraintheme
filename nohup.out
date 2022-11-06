@@ -1,0 +1,80 @@
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x3000001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x3600001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x5400001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x6000001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x6600001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x6c00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x7e00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x8c00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x9600001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xaa00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xa800001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xae00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xc200001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xe800001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0xea00001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  113 (X_KillClient)
+  Value in failed request:  0x2200001
+  Serial number of failed request:  16
+  Current serial number in output stream:  23
